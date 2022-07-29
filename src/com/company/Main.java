@@ -6,7 +6,6 @@ public class Main {
 
     public static void main(String[] args) {
     Boss boss = new Boss();
-    Weapon weapon = new Weapon("ffrge","geg");
     Sceleton sceleton = new Sceleton();
     Weapon weapon2 = new Weapon("Пулемет "," M240");
 
