@@ -9,7 +9,7 @@ public class Main {
     Sceleton sceleton = new Sceleton();
     Weapon weapon2 = new Weapon("Пулемет "," M240");
 
-    boss.setHealth(330);//Основа: Босс
+    boss.setHealth(330);//Основа: Босс.
     boss.setDamage(23);
     boss.setTypeOfDefence("Fire");
     System.out.println("Boss: "+boss.info()+weapon2.getTypeofWeapon() + weapon2.getNameOfWeapon());
